@@ -53,7 +53,9 @@ This dataset is a builtin dataset in pytorch MNIST dataset available from [MNIST
 
 ## 📈 Visualising data
 
-![img](./assets/digit5.png)
+<p align="center">
+  <img src="./assets/digit5.png" />
+</p>
 
 <br/>
 
