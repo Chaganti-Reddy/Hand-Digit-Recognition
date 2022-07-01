@@ -1,4 +1,4 @@
-<h1 align="center">House Price Prediction</h1>
+<h1 align="center">Hand Digit Recognition</h1>
 
 <div align= "center"><img src="assets/home.png" width="250" height="250"/> 
 
