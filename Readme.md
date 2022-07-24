@@ -147,8 +147,6 @@ git clone https://github.com/Chaganti-Reddy/Hand-Digit-Recognition.git
 cd Hand-Digit-Recognition
 ```
 
-Before running the command copy the downloaded dataset folder to face-mask-detector folder...
-
 3. Now, run the following command in your Terminal/Command Prompt to install the libraries required
 
 ```bash
